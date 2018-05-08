@@ -9,6 +9,9 @@
 # production
 /build
 
+# hoc 
+/src/hoc
+
 # misc
 .DS_Store
 .env.local
